@@ -1,0 +1,30 @@
+body
+{   
+    background-image: url(images/win.jpg);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+.win
+{
+    width: 60%;
+    height: 40%;
+    background: rgba(0,0,0,0.5);
+    margin: 80px auto 0px auto;
+    display: block;
+    color: white;
+    padding: 40px;
+    font-size: 60px;
+    text-align: center;
+    color: rgb(241, 225, 0);
+    font-weight: 700;
+}
+
+.score
+{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
